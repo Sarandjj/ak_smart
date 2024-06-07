@@ -41,11 +41,6 @@ Contributions are always welcome! To contribute to the application, follow these
 3. Make your changes and commit them using `git commit -am 'Add some feature'`.
 4. Push your changes to your fork using `git push origin my-feature`.
 5. Submit a pull request with your changes.
-
-## Credits
-
-This application was developed by [Your Name Here].
-
-## License
+ 
 
 This application is licensed under the [MIT License](https://opensource.org/licenses/MIT).
